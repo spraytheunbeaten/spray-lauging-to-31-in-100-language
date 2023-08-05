@@ -1,0 +1,13 @@
+SPGAY:
+SSSSST   
+TSSSTTST 
+TSSSTTST 
+SSSSST   
+TSSSTTSS 
+SSSTST  
+    TSSS
+    STS 
+SSTTST   
+    TSSS  
+    STS   
+STT      
